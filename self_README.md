@@ -1,3 +1,3 @@
-Currently at "Chapter 2" at [this link](https://build-your-own.org/redis/02_intro_sockets).
+Currently at "Chapter 3" at [this link](https://build-your-own.org/redis/03_hello_cs).
 
-At the 'TCP/IP model' section, at the sentence '3 layers represent 3 needs in networking.'
+At the 'What's actually relevant to us' section, at the sentence 'Ethernet is below IP, ...'
